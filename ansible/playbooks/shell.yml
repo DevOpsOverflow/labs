@@ -3,7 +3,7 @@
    become: yes
    tasks:
      - name : execute a shell
-       shell: touch /tmp/ravi
+       shell: touch /tmp/revath
 #       register: abc
 #     - debug:
 #         msg: "{{ abc.stdout_lines }}"
