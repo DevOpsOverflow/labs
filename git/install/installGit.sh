@@ -6,4 +6,4 @@ sudo apt-get remove -y git git-core
 sudo apt-add-repository --yes ppa:git-core/ppa
 sudo apt-get update
 sudo apt-get install -y git
-echo "`git --version` installed git Successfully"
+echo "`git --version` git was installed Successfully"
